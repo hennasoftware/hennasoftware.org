@@ -4,7 +4,7 @@ const UnderConstruction = () => {
   return (
     <div className="min-h-screen bg-gray-900 flex items-center justify-center">
       <div className="text-center text-white max-w-lg">
-        <img src="/src/assets/images/barrier.gif" alt="GIF showing an animated road block barrier."
+        <img src="/barrier.gif" alt="GIF showing an animated road block barrier."
              className="w-2xs m-auto"/>
         <h1 className="text-4xl font-bold animate__animated animate__fadeInUp">
           UNDER CONSTRUCTION </h1>
