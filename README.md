@@ -1,2 +1,8 @@
-# hennasoftware.org
-This is the official landing page for Henna Software, a community of Brazilian developers collaborating to build impactful tech solutions. We focus on learning, growth, and teamwork, tackling real-world challenges while enhancing our technical and professional skills through hands-on projects.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
