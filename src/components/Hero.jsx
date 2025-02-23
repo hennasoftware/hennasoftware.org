@@ -4,9 +4,10 @@ function Hero() {
       <section className={"py-40"}>
         <div className={"container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 lg:flex"}>
           <div className={'flex flex-col gap-16 text-center max-w-2xl md:text-left lg:max-w-3xl'}>
-            <h1 className={"text-blue-500 text-7xl"}>Building Solutions, Growing Together</h1>
+            <h1 className={"text-blue-500 text-6xl sm:text-7xl"}>Building Solutions, Growing Together</h1>
 
-            <p className={'text-slate-500 text-2xl'}>A community of passionate Brazilian developers creating real-world
+            <p className={'text-slate-500 text-xl sm:text-2xl'}>A community of passionate Brazilian developers creating
+              real-world
               solutions, fostering growth, and
               making a social impact.</p>
 
