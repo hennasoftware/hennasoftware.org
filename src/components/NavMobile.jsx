@@ -6,24 +6,24 @@ function NavMobile(props) {
         <ul className={'space-y-2 px-2 pt-2 pb-3 text-xl'}>
           <li>
             <a href="/" className={'transition-all hover:text-blue-500'}>
-              <i className={"uil uil-estate"}></i> Home</a>
+              <i className={'uil uil-estate'}></i> Home</a>
           </li>
           <li>
             <a href="#about" className={'transition-all hover:text-blue-500'}>
-              <i className={"uil uil-question-circle"}></i> About</a>
+              <i className={'uil uil-question-circle'}></i> About</a>
           </li>
           <li>
             <a href="#projects" className={'transition-all hover:text-blue-500'}>
-              <i className={"uil uil-file-info-alt"}></i> Projects</a>
+              <i className={'uil uil-file-info-alt'}></i> Projects</a>
           </li>
           <li>
             <a href="#contact" className={'transition-all hover:text-blue-500'}>
-              <i className={"uil uil-telegram-alt"}></i> Contact</a>
+              <i className={'uil uil-telegram-alt'}></i> Contact</a>
           </li>
         </ul>
       </div>
     </>
-  )
+  );
 }
 
 export default NavMobile;

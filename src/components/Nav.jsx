@@ -1,7 +1,7 @@
 function Nav() {
   return (
     <>
-      <div className={"hidden md:flex"}>
+      <div className={'hidden md:flex'}>
         <ul className={'flex gap-6 text-lg'}>
           <li><a href="/" className={'transition-all hover:text-blue-500'}>Home</a></li>
           <li><a href="#about" className={'transition-all hover:text-blue-500'}>About</a></li>
@@ -10,7 +10,7 @@ function Nav() {
         </ul>
       </div>
     </>
-  )
+  );
 }
 
 export default Nav;
