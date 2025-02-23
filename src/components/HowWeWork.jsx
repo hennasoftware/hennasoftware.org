@@ -1,4 +1,3 @@
-import StoryCard from './StoryCard.jsx';
 import WorkCard from './WorkCard.jsx';
 
 function OurStory() {
