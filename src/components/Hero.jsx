@@ -1,3 +1,5 @@
+import logo from '../assets/images/logo.svg';
+
 function Hero() {
   return (
     <>
@@ -26,7 +28,7 @@ function Hero() {
           </div>
 
           <div>
-            <img src="/src/assets/images/logo.svg" alt="Henna Software logo. A white mug spilling brown coffee."
+            <img src={logo} alt={'Henna Software logo. A white mug spilling brown coffee.'}
                  className={'hidden xl:block'} />
           </div>
         </div>
