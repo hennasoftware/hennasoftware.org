@@ -24,7 +24,7 @@ function Header() {
   return (
     <>
       <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-        scrolled ? 'bg-slate-950 shadow-sm shadow-slate-800' : 'bg-transparent'
+        scrolled || isMenuOpen ? 'bg-slate-950 shadow-sm shadow-slate-800' : 'bg-transparent'
       }`}>
         <div className={'container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'}>
           <div className={'flex items-center justify-between h-16'}>
