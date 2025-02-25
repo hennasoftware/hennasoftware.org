@@ -1,6 +1,22 @@
 @import "tailwindcss";
 @import 'animate.css';
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
 
 body {
   font-family: "Poppins", "sans-serif";
 }
+
+.swiper-pagination-bullet {
+  background-color: #1E2939;
+  opacity: 1;
+  width: 12px;
+  height: 12px;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #5271FF;
+  opacity: 1;
+}
+
