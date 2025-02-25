@@ -1,4 +1,4 @@
-import WorkCard from './WorkCard.jsx';
+import WorkCard from '../WorkCard.jsx';
 
 function OurStory() {
   return (

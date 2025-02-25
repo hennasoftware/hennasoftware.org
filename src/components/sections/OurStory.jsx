@@ -1,4 +1,4 @@
-import StoryCard from './StoryCard.jsx';
+import StoryCard from '../StoryCard.jsx';
 
 function OurStory() {
   return (

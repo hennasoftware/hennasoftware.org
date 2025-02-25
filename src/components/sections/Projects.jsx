@@ -1,4 +1,4 @@
-import { fetchOrgRepos } from '../services/githubAPI.js';
+import { fetchOrgRepos } from '../../services/githubAPI.js';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper/modules';
 import { useEffect, useState } from 'react';
