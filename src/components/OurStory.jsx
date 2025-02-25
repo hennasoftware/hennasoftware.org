@@ -13,7 +13,7 @@ function OurStory() {
               grow, and create impactful projects together.</p>
           </div>
 
-          <div className={'py-20 flex flex-col gap-6 md:flex-row'}>
+          <div className={'pt-20 flex flex-col gap-6 md:flex-row'}>
             <StoryCard icon={'uil uil-favorite'} title={'The Beginning'}
                        description={'Connected through our shared passion for coding and technology on Discord'} />
 
