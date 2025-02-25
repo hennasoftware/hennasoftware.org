@@ -23,7 +23,7 @@ function Hero() {
 
               <a href={'https://discord.gg/ZfFnhhHDhK'} target={'_blank'}
                  className={'w-full max-w-2xs text-xl px-4 py-2 bg-transparent border border-blue-500 rounded-sm transition-all hover:bg-blue-950 sm:w-2xs md:w-fit'}>
-                <i className="uil uil-comment-heart"></i> Join our Discord
+                <i className="uil uil-discord"></i> Join our Discord
               </a>
             </div>
           </div>
