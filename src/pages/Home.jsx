@@ -3,6 +3,7 @@ import Hero from '../components/sections/Hero.jsx';
 import OurStory from '../components/sections/OurStory.jsx';
 import HowWeWork from '../components/sections/HowWeWork.jsx';
 import Projects from '../components/sections/Projects.jsx';
+import JoinUs from '../components/sections/JoinUs.jsx';
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
       <OurStory />
       <HowWeWork />
       <Projects />
+      <JoinUs />
     </>
   );
 }
