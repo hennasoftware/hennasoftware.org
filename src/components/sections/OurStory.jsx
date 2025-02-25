@@ -8,7 +8,7 @@ function OurStory() {
           <div className={'space-y-8'}>
             <h3 className={'text-3xl sm:text-4xl'}>Our Story</h3>
 
-            <p className={'text-slate-500 text-base sm:text-2xl'}>From a Discord community of friends to a passionate
+            <p className={'text-slate-500 text-base sm:text-xl'}>From a Discord community of friends to a passionate
               development collective, we're on a mission to learn,
               grow, and create impactful projects together.</p>
           </div>

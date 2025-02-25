@@ -42,12 +42,12 @@ function Projects() {
 
                   <div className={'flex flex-wrap w-full items-center gap-2 text-center'}>
                     <a href={repo.homepage} target="_blank" rel="noopener noreferrer"
-                       className="min-w-40 px-4 py-2 bg-blue-500 rounded-sm transition-all hover:bg-blue-400 md:mx-0 sm:w-fit md:min-w-auto">
+                       className="shadow-md shadow-blue-500/50 min-w-40 px-4 py-2 bg-blue-500 rounded-sm transition-all hover:bg-blue-400 md:mx-0 sm:w-fit md:min-w-auto">
                       <i className="uil uil-arrow-up-right"></i> Live Demo
                     </a>
 
                     <a href={repo.html_url} target="_blank" rel="noopener noreferrer"
-                       className="min-w-40 px-4 py-2 bg-blue-500 rounded-sm transition-all hover:bg-blue-400 md:mx-0 sm:w-fit md:min-w-auto">
+                       className="shadow-md shadow-blue-800/50 min-w-40 px-4 py-2 bg-transparent border border-blue-900 rounded-sm transition-all hover:bg-gray-700 md:mx-0 sm:w-fit md:min-w-auto">
                       <i className="uil uil-github"></i> View Code
                     </a>
                   </div>
