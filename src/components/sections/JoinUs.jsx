@@ -1,7 +1,7 @@
 function JoinUs() {
   return (
     <>
-      <section id={'contact'} className={'py-20 text-center bg-slate-900'}>
+      <section id={'join'} className={'py-20 text-center bg-slate-900'}>
         <div className={'container max-w-7xl mx-auto px-4 space-y-8 sm:px-6 lg:px-8'}>
           <h3 className={'text-3xl sm:text-4xl'}>Want to Collaborate?</h3>
 
