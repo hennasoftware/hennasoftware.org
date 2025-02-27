@@ -1,12 +1,12 @@
-import UnderConstruction from "./pages/UnderConstruction.jsx";
+import Home from './pages/Home.jsx';
 
 function App() {
 
   return (
     <>
-      <UnderConstruction/>
+      <Home />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
