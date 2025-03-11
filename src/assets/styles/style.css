@@ -1,21 +1,21 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 @import 'animate.css';
-@import "swiper/css";
-@import "swiper/css/navigation";
-@import "swiper/css/pagination";
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
 
 body {
-  font-family: "Poppins", "sans-serif";
+  font-family: 'Poppins', 'sans-serif';
 }
 
 .swiper-pagination-bullet {
-  background-color: #1E2939;
+  background-color: #1e2939;
   opacity: 1;
   width: 12px;
   height: 12px;
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #5271FF;
+  background-color: #5271ff;
   opacity: 1;
 }
