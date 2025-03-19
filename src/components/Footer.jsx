@@ -73,7 +73,7 @@ function Footer() {
                 </a>
 
                 <a
-                  href="https://discord.gg/ZfFnhhHDhK"
+                  href="https://discord.gg/RbSCJWZpaw"
                   target={'_blank'}
                   className={'transition-all hover:text-blue-500'}
                 >

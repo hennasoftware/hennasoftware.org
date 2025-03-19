@@ -43,7 +43,7 @@ function Hero() {
               </a>
 
               <a
-                href={'https://discord.gg/ZfFnhhHDhK'}
+                href={'https://discord.gg/RbSCJWZpaw'}
                 target={'_blank'}
                 className={
                   'shadow-lg shadow-blue-800/50 w-full max-w-2xs text-xl px-4 py-2 bg-transparent border border-blue-900 rounded-sm transition-all hover:bg-blue-950 sm:w-2xs md:w-fit'
