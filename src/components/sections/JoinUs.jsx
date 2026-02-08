@@ -19,7 +19,7 @@ function JoinUs() {
 
           <div className={'mt-20'}>
             <a
-              href={'https://discord.gg/ZfFnhhHDhK'}
+              href={'https://discord.gg/RbSCJWZpaw'}
               target={'_blank'}
               className={
                 'shadow-lg shadow-blue-500/50 w-full max-w-2xs text-xl px-8 py-4 bg-blue-500 rounded-sm transition-all hover:bg-blue-400 sm:w-fit sm:text-2xl'
