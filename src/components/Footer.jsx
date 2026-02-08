@@ -24,7 +24,7 @@ function Footer() {
             <div className={'flex flex-col gap-1'}>
               <h4 className={'text-xl text-slate-600'}>Links</h4>
 
-              <ul className={'flex gap-2'}>
+              <ul className={'flex gap-3'}>
                 <li>
                   <a
                     href={'/'}
@@ -54,7 +54,7 @@ function Footer() {
                     href={'#contact'}
                     className={'transition-all hover:text-blue-500'}
                   >
-                    Join Us
+                    Contact
                   </a>
                 </li>
               </ul>
