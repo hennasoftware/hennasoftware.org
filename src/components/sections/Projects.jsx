@@ -25,8 +25,17 @@ function Projects() {
 
           <div className={'pt-20'}>
             {loading ? (
-              <div className="flex items-center justify-center">
-                <i className="uil uil-spinner-alt text-6xl text-blue-500 animate-spin"></i>
+              <div
+                className="flex items-center justify-center"
+                role="status"
+                aria-live="polite"
+                aria-busy="true"
+              >
+                <i
+                  className="uil uil-spinner-alt text-6xl text-blue-500 animate-spin"
+                  aria-hidden="true"
+                ></i>
+                <span className="sr-only">Loading projects…</span>
               </div>
             ) : repos.length === 0 ? (
               <div className="flex flex-col items-center justify-center space-y-4">
